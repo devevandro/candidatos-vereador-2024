@@ -3,6 +3,7 @@
 - Dados recuperados no site do TSE
 - Layout gerado por IA do site https://v0.dev/
 - Hospedado na https://vercel.com/
+- Tecnologias: NextJs, Tailwind, Typescript, axios
 
 ## Como compilar
 com NPM
