@@ -1,8 +1,8 @@
 ## Detalhes do Projeto
-- Projeto criado com intuito de mostrar os candidatos a vereador da cidaee de Cornélio Procópio
+- Projeto criado com intuito de mostrar os candidatos a vereador da cidade de Cornélio Procópio
 - Dados recuperados no site do TSE
-- Projeto gerado por IA do site V0.com
-- Hospedado na vercel.com
+- Layout gerado por IA do site https://v0.dev/
+- Hospedado na https://vercel.com/
 
 ## Como compilar
 com NPM
