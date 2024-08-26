@@ -3,4 +3,5 @@ export interface Candidatos {
   nome: string;
   numero: number;
   nomeUrna: string;
+  nomeColigacao: string
 }

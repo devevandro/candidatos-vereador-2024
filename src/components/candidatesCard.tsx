@@ -44,8 +44,8 @@ export function CandidatesCard() {
                 <h3 className="text-lg font-semibold">
                   {candidato?.nomeUrna || "Jon Doe Nick"}
                 </h3>
-                <p className="text-muted-foreground">
-                  {candidato?.nome || "Jon Doe"}
+                <p className="text-muted-foreground font-semibold">
+                  {candidato?.nomeColigacao || "Jon Doe"}
                 </p>
                 <p className="text-sm font-medium">{candidato?.numero || 0}</p>
               </div>
