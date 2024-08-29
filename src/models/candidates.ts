@@ -1,7 +1,9 @@
-export interface Candidatos {
+export interface Candidates {
   id: number;
   nome: string;
   numero: number;
   nomeUrna: string;
-  nomeColigacao: string
+  nomeColigacao: string;
+  dataDeNascimento: string;
+  reeleicao: boolean;
 }
